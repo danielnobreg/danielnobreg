@@ -11,6 +11,9 @@
 ###
 
 <p align="left">I am familiar with the following technologies:<br>- Python<br>- JavaScript<br>- HTML<br>- CSS<br>- Bootstrap<br>- MySQL</p>
+-
+-
+-
 
 ###
 

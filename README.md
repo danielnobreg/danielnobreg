@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I am familiar with the following technologies:<br>- Python<br>- NodeJS<br>- HTML<br>- CSS<br>- Bootstrap<br>- MySQL<br>- C</p>
+<p align="left">I am familiar with the following technologies:<br>- NodeJS<br>- REACT<br>- MySQL<br>- C</p>
 
 ###
 

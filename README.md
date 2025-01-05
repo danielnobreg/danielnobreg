@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👨‍💻 Systems Analysis and Development Student<br>2nd Period</p>
+<p align="left">👨‍💻 Systems Analysis and Development Student<br>3nd Period</p>
 
 ###
 

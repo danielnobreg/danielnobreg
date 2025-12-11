@@ -1,4 +1,4 @@
-<img width="1690" height="816" alt="image" src="https://github.com/user-attachments/assets/ff393115-adbe-421b-9a22-abfb4cb2952b" /><h2 align="left">Hi, my name is Daniel.</h2>
+<h2 align="left">Hi, my name is Daniel.</h2>
 
 ###
 

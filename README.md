@@ -1,11 +1,19 @@
-<h2 align="left">Hi, my name is Daniel.</h2>
+<h2 align="left">Hi, my name is Daniel Nóbrega 👋</h2>
 
 ###
 
-<p>Graduated in Systems Analysis and Development, i use my learnings to solve problems and expedite process.</p>
+<p align="left">
+  I am a <strong>Full Stack Developer</strong> with a degree in Systems Analysis and Development. I am deeply passionate about using technology to solve real-world problems, optimize workflows, and deliver premium user experiences.
+  <br><br>
+  In my professional experience, I have developed automated dashboards and systems from scratch (using HTML, CSS, JavaScript, and database integrations) that significantly accelerated document generation—tripling process speeds and eliminating repetitive tasks. 
+  <br><br>
+  Beyond my daily work, I actively build complex, modern web applications. Recently, I developed an AI-powered medical exam analysis platform built with <strong>React, Node.js, Tailwind, and Firebase</strong>, focusing on clean architecture, responsive design, and intuitive B2B interfaces.
+  <br><br>
+  Driven by a strong desire to learn and evolve quickly, I am constantly exploring new technologies to build scalable, efficient, and impactful solutions.
+</p>
 
 ###
-<h5>Stacks i am familliar with</h5>
+<h5>Stacks I am familiar with</h5>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
